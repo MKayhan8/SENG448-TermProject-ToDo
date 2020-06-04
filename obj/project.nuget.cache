@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "toxsYDpk/SXcLO0T2UvGp50eP4Dj13hZZO6/w4oZ6D2TeDDhyZgZhwimCxk/rDMmv9NVUEs4tvJulBqvf0zKLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MKA\\Desktop\\seng448_project\\cldproject\\cldproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MKA\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

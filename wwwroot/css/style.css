@@ -1,0 +1,20 @@
+#header{
+    font-size: 20px;
+    text-align: center;
+}
+a{
+    color:white;
+}
+
+li:hover{
+    background-color: #c9d9e5;
+}
+.list-group-item{
+    background-color: #d5e3ff;
+}
+.fas{
+    color: #818b92;
+}
+#btnAddNewTask{
+    background-color: #c9d9e5;
+}
