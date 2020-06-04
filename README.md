@@ -5,9 +5,8 @@
 *  Development  : <i>.NET Core SDK , HTML , CSS , JavaScript </i>
 *  Docker : <i> Docker Desktop </i>
 *  Cloud : <i> Google Cloud </i>
-<br>
----->  https://cldproject2-kdhggvuwza-de.a.run.app/
-<br>
+# Link
+* https://cldproject2-kdhggvuwza-de.a.run.app/
 ## Team Members
 * Mustafa Kayhan Arıcan ([@MKayhan8](https://github.com/Mkayhan8/))
 * Mustafa İpek ([@mistova](https://github.com/mistova/))
